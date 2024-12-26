@@ -12,6 +12,7 @@ public class Vector3DArrayMain {
         System.out.println(arr.getIndex(vector1));
         arr.summArray().printVector();
         arr.combine(intarr).printVector();
+        //ws
         System.out.println("-----------------------------------Массив векторов, на которые сдвигаем---------------------------------------------");
         for (int i = 0; i < arr.getLength(); i++) {
             arr.getElement(i).printVector();
