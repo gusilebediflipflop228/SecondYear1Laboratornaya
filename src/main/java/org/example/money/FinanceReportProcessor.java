@@ -38,4 +38,4 @@ public class FinanceReportProcessor {
         return new FinanceReport(payments, report.getFio(), report.getDate());
     }
 
-}
+}//mpdmgpdm
